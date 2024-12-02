@@ -76,13 +76,13 @@ void main() {
 	std::cin >> resultat4;
 	switch (resultat4) {// mostra resultat i opcio correcta de pregunta 4
 	case 1:
-		std::cout << "Resposta incorrecta, la resposta correcta es la 2" << std::endl;
+		std::cout << "Resposta incorrecta, la resposta correcta es la 4" << std::endl;
 	case 2:
-		std::cout << "Resposta correcta" << std::endl;
+		std::cout << "Resposta incorrecta, la resposta correcta es la 4" << std::endl;
 	case 3:
-		std::cout << "Resposta incorrecta, la resposta correcta es la 2" << std::endl;
+		std::cout << "Resposta incorrecta, la resposta correcta es la 4" << std::endl;
 	case 4:
-		std::cout << "Resposta incorrecta, la resposta correcta es la 2" << std::endl;
+		std::cout << "Resposta correcta" << std::endl;
 	default:
 		std::cout << "No es una opcio.";
 		break;
